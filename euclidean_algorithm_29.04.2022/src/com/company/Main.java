@@ -1,7 +1,8 @@
 package com.company;
 
 import java.util.Scanner;
-
+// so I do it with  Dividieren. We can also work with subtraction, but diving is fast.I used devesion. 
+//We can also work with subtraction, but diving is faster
 public class Main {
 // with euclidean algorithm we are find greatest common divisor
     public static void main(String[] args) {
