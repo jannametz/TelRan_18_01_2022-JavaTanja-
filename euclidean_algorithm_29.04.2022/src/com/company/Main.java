@@ -1,10 +1,14 @@
 package com.company;
 
 import java.util.Scanner;
+//Найдите НОД двух чисел.
+//Вводятся два натуральных числа, не превосходящих 10 000, разделенные пробелом.
+//Выведите одно число - их наибольший общий делитель.
+// with euclidean algorithm we are find greatest common divisor
 // so I do it with  Dividieren. We can also work with subtraction, but diving is fast.I used devesion. 
 //We can also work with subtraction, but diving is faster
 public class Main {
-// with euclidean algorithm we are find greatest common divisor
+
     public static void main(String[] args) {
         Scanner user = new Scanner(System.in);
         System.out.println("Enter the first number: ");
